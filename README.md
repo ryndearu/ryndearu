@@ -4,9 +4,8 @@
 ## 🚀 About Me
 - 🎓 Student at Universitas Sebelas Maret
 - 📍 Based in Surakarta, Central Java, Indonesia
-- 💻 Passionate about web development and programming
-- 🌱 Currently learning new technologies and exploring mobile app development
-- 📫 Reach me at: ryndearu@duck.com
+- 💻 Passionate about programming
+- 🌱 Currently exploring web and mobile app development
 
 ## 🛠️ Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
@@ -24,17 +23,11 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryndearu&theme=radical&hide_border=true)
 
 ## 🏆 Featured Projects
-### 🏨 [HotelRoomBooking](https://github.com/ryndearu/HotelRoomBooking)
-Hotel room booking system built with HTML and modern web technologies.
-
-### 🔐 [Tugas Login Register Kit](https://github.com/ryndearu/tugas-login-register-k11)
-Authentication system project using PHP.
-
-### 📱 [PAB-HotelBooking](https://github.com/ryndearu/PAB-HotelBooking)
+### 📱 [HotelBookingApp](https://github.com/ryndearu/HotelBookingApp)
 Mobile hotel booking application built with Kotlin.
+
+### 🏨 [HotelManagementWeb](https://github.com/ryndearu/HotelManagementWeb)
+Hotel room management system built with HTML and modern web technologies.
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ryndearu&theme=react-dark&hide_border=true)
-
----
-⭐️ From [Muhammad Febrian](https://github.com/ryndearu)
