@@ -1,4 +1,4 @@
-# Hi there, I'm Brian! 👋
+# Hi there, I'm brian! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=ryndearu&color=blueviolet)
 
 ## 🚀 About Me
